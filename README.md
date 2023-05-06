@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Morning Aroma](https://elegant-hopper-860fd7.netlify.app/)
 
-- 🌱 I’m currently learning **Java/SpringBoot,Vue as well as Algorithms and Data structures**
+- 🌱 I’m currently learning **Java/SpringBoot, Vue as well as Algorithms and Data structures**
 
 - 👨‍💻 All of my projects are available at [https://www.arsenidmitriev.com/](https://www.arsenidmitriev.com/)
 
