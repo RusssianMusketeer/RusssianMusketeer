@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I enjoy going to the gym !**
 
+![Leetcode Stats](https://leetcode.com/arseni1234/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/russsianmusketeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="russsianmusketeer" height="30" width="40" /></a>
