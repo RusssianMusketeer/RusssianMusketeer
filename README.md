@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I enjoy going to the gym !**
 
-![Leetcode Stats](https://leetcode.com/arseni1234/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/arseni1234/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
