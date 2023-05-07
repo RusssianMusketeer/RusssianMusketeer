@@ -12,8 +12,7 @@
 - 📫 How to reach me **a.devetriev@gmail.com**
 
 - ⚡ Fun fact **I enjoy going to the gym !**
-
-[![Leetcode Stats](https://leetcode.com/arseni1234/)](https://leetcode.com/arseni1234/)
+![LeetCode Stats](https://leetcode.card.workers.dev/arseni1234?theme=default&font=baloo&extension=null)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
