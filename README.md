@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I enjoy going to the gym !**
 
-![LeetCode Stats](https://leetcode.card.workers.dev/arseni1234?theme=nord)
+![LeetCode Stats](https://leetcode.card.workers.dev/arseni1234?theme=nord?ext=contest)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
