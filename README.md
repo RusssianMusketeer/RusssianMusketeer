@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arseni Dmitriev</h1>
-<h3 align="center">A passionate Web Developer from Canada</h3>
+<h3 align="center">A passionate Full Stack Developer from Canada</h3>
 
 - 🔭 I’m currently working on [Morning Aroma](https://elegant-hopper-860fd7.netlify.app/)
 
-- 🌱 I’m currently learning **Java/SpringBoot, Python,  Vue as well as Algorithms and Data structures**
+- 🌱 I’m currently learning **C#/.net 8, Python, Angular as well as Algorithms and Data structures**
 
 - 👨‍💻 All of my projects are available at [https://www.arsenidmitriev.com/](https://www.arsenidmitriev.com/)
 
